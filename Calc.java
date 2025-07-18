@@ -3,8 +3,8 @@ package simplejavacalculator;
 import static java.lang.Double.NaN;
 import static java.lang.Math.log10;
 import static java.lang.Math.pow;
------------------------------------
-import static java.lang.Math.log10;log log1
+-----------------------------
+import static java.lang.Math.log10;log 
 import static java.lang.Math.pow;
 
 
