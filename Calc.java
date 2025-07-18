@@ -4,7 +4,7 @@ import static java.lang.Double.NaN;
 import static java.lang.Math.log10;
 import static java.lang.Math.pow;
 -----------------------------------
-import static java.lang.Math.log10;log
+import static java.lang.Math.log10;log new one
 import static java.lang.Math.pow;
 
 
