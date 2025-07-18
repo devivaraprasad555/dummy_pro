@@ -6,8 +6,11 @@ import static java.lang.Math.pow;
 -----------------------------
 import static java.lang.Math.log10;log 
 import static java.lang.Math.pow;
+
 import static java.lang.Math.pow; one
 import static java.lang.Math.pow; two
+
+
 
 
 
@@ -18,7 +21,7 @@ public class Calculator {
     public enum BiOperatorModes {
 
         normal, add, minus, multiply, divide , xpowerofy 
-
+import static java.lang.Math.pow;
     }
 
     public enum MonoOperatorModes {
