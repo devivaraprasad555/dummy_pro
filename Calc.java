@@ -6,6 +6,7 @@ import static java.lang.Math.pow;
 -----------------------------------
 import static java.lang.Math.log10;log new one
 import static java.lang.Math.pow;
+import static java.lang.Math.pow;
 
 
 
